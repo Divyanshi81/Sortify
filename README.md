@@ -36,12 +36,3 @@ I created this project to deepen my own understanding of sorting algorithms and 
 
 ## 🛠️ Built with
 - **React:** To create a smooth, interactive experience.
-
----
-
-If you’d like, I can also help you add:
-✅ Screenshots or GIFs  
-✅ Simple instructions on how to run it locally  
-✅ A “What’s next / future improvements” section
-
-Just let me know!
